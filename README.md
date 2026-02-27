@@ -59,14 +59,14 @@
 
 <br>
 
-🔭 &nbsp;Currently building amazing **web applications & digital experiences**<br><br>
+🔭 &nbsp;Currently building amazing **web applications &amp; digital experiences**<br><br>
 🌱 &nbsp;Learning **everything in tech** — never stop growing<br><br>
 👨‍💻 &nbsp;All of my projects are available on **GitHub**<br><br>
 🤝 &nbsp;Looking to collaborate on **innovative open source projects**<br><br>
 💬 &nbsp;Ask me about **anything** — I'm always happy to help<br><br>
 📫 &nbsp;Reach me at: **hellomynameee@gmail.com**<br><br>
 ⚡ &nbsp;Fun fact: **I mass coffee and shipping features at 3AM** ☕<br><br>
-🎯 &nbsp;2026 Goals: **Contribute more to Open Source & build cool products**<br><br>
+🎯 &nbsp;2026 Goals: **Contribute more to Open Source &amp; build cool products**<br><br>
 🌍 &nbsp;Based in **Vietnam** 🇻🇳<br><br>
 ❤️ &nbsp;I love turning **ideas into reality** through code
 
