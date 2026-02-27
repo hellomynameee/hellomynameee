@@ -4,13 +4,13 @@
 <!-- 1. 🌊 ANIMATED HEADER — EPIC ENTRANCE -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:8B5CF6,25:6366F1,50:EC4899,75:F43F5E,100:06B6D4&amp;height=250&amp;section=header&amp;text=⚡%20NGUYỄN%20THÁI%20DƯƠNG%20⚡&amp;fontSize=48&amp;fontColor=FFFFFF&amp;animation=twinkling&amp;fontAlignY=28&amp;desc=「%20Web%20Developer%20%20|%20%20Frontend%20%26%20Backend%20Specialist%20%20|%20%20UI%2FUX%20Enthusiast%20%20|%20%20Open%20Source%20Lover%20」&amp;descAlignY=55&amp;descSize=17&amp;descColor=FFFFFF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,25:6366F1,50:EC4899,75:F43F5E,100:06B6D4&height=250&section=header&text=⚡%20NGUYỄN%20THÁI%20DƯƠNG%20⚡&fontSize=48&fontColor=FFFFFF&animation=twinkling&fontAlignY=28&desc=「%20Web%20Developer%20%20|%20%20Frontend%20%26%20Backend%20Specialist%20%20|%20%20UI%2FUX%20Enthusiast%20%20|%20%20Open%20Source%20Lover%20」&descAlignY=55&descSize=17&descColor=FFFFFF" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!-- 2. 🎬 ANIMATED INTRO BANNER -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0D1117,100:161B22&amp;height=1" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=1" width="100%" />
 
 
 
@@ -393,17 +393,17 @@
 <table>
 <tr>
 <td valign="top">
-<img src="https://github-readme-stats.vercel.app/api?username=hellomynameee&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=8B5CF6&amp;icon_color=EC4899&amp;text_color=FFFFFF&amp;ring_color=06B6D4&amp;count_private=true&amp;include_all_commits=true" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hellomynameee&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=EC4899&text_color=FFFFFF&ring_color=06B6D4&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
 </td>
 <td valign="top">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellomynameee&amp;layout=donut-vertical&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=8B5CF6&amp;text_color=FFFFFF&amp;langs_count=10" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellomynameee&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&langs_count=10" alt="Top Languages"/>
 </td>
 </tr>
 </table>
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hellomynameee&amp;theme=radical&amp;hide_border=true&amp;background=0D1117&amp;ring=8B5CF6&amp;fire=EC4899&amp;currStreakLabel=06B6D4&amp;sideLabels=FFFFFF&amp;currStreakNum=FFFFFF&amp;sideNums=FFFFFF&amp;dates=888888" alt="GitHub Streak" width="700"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hellomynameee&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=EC4899&currStreakLabel=06B6D4&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="GitHub Streak" width="700"/>
 
 </div>
 
@@ -421,7 +421,7 @@
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=hellomynameee&amp;theme=radical&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=7&amp;margin-w=15&amp;margin-h=15" alt="GitHub Trophies" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=hellomynameee&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%"/>
 
 </div>
 
@@ -439,7 +439,7 @@
 
 ## 📈 Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hellomynameee&amp;theme=react-dark&amp;hide_border=true&amp;bg_color=0D1117&amp;color=8B5CF6&amp;line=EC4899&amp;point=06B6D4&amp;area=true&amp;area_color=8B5CF660" alt="Activity Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hellomynameee&theme=react-dark&hide_border=true&bg_color=0D1117&color=8B5CF6&line=EC4899&point=06B6D4&area=true&area_color=8B5CF660" alt="Activity Graph" width="100%"/>
 
 </div>
 
@@ -458,7 +458,7 @@
 ## 📌 Featured Projects
 
 <a href="https://github.com/hellomynameee/hellomynameee">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hellomynameee&amp;repo=hellomynameee&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=8B5CF6&amp;icon_color=EC4899" alt="Pinned Repo"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hellomynameee&repo=hellomynameee&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=EC4899" alt="Pinned Repo"/>
 </a>
 
 </div>
@@ -507,7 +507,7 @@
 
 ## 💡 Dev Quote
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=radical&amp;border=true" alt="Random Dev Quote" width="100%"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Random Dev Quote" width="100%"/>
 
 </div>
 
@@ -525,7 +525,7 @@
 
 ## 😂 Dev Humor
 
-<img src="https://readme-jokes.vercel.app/api?hideBorder&amp;theme=radical&amp;qColor=%238B5CF6&amp;aColor=%23EC4899&amp;bgColor=%230D1117&amp;borderColor=%238B5CF6" alt="Dev Jokes" width="500"/>
+<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical&qColor=%238B5CF6&aColor=%23EC4899&bgColor=%230D1117&borderColor=%238B5CF6" alt="Dev Jokes" width="500"/>
 
 </div>
 
@@ -640,7 +640,7 @@ Other        █░░░░░░░░░░░░░░░░░░░░░�
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:8B5CF6,25:6366F1,50:EC4899,75:F43F5E,100:06B6D4&amp;height=150&amp;section=footer&amp;text=Thanks%20for%20visiting!%20⭐&amp;fontSize=24&amp;fontColor=FFFFFF&amp;animation=twinkling&amp;fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,25:6366F1,50:EC4899,75:F43F5E,100:06B6D4&height=150&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=24&fontColor=FFFFFF&animation=twinkling&fontAlignY=65" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!-- 20. 👣 VISITOR COUNTER -->
