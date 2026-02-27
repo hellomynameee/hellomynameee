@@ -4,13 +4,13 @@
 <!-- 1. 🌊 ANIMATED HEADER — EPIC ENTRANCE -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,25:6366F1,50:EC4899,75:F43F5E,100:06B6D4&height=250&section=header&text=⚡%20NGUYỄN%20THÁI%20DƯƠNG%20⚡&fontSize=48&fontColor=FFFFFF&animation=twinkling&fontAlignY=28&desc=「%20Full-Stack%20Developer%20%20|%20%20Open%20Source%20Enthusiast%20%20|%20%20Tech%20Visionary%20」&descAlignY=55&descSize=17&descColor=FFFFFF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,25:6366F1,50:EC4899,75:F43F5E,100:06B6D4&height=250&section=header&text=⚡%20NGUYỄN%20THÁI%20DƯƠNG%20⚡&fontSize=48&fontColor=FFFFFF&animation=twinkling&fontAlignY=28&desc=「%20Web%20Developer%20%20|%20%20Frontend%20%26%20Backend%20Specialist%20%20|%20%20UI%2FUX%20Enthusiast%20%20|%20%20Open%20Source%20Lover%20」&descAlignY=55&descSize=17&descColor=FFFFFF" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!-- 2. 🎬 ANIMATED INTRO BANNER -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=1" width="100%" />
 
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" height="4"/>
 
@@ -20,7 +20,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=120&lines=🌌+Welcome+to+my+Digital+Universe+🌌;🚀+Full-Stack+Developer+from+Vietnam+🇻🇳;💡+Building+the+Future%2C+One+Commit+at+a+Time;🔥+Passionate+about+Code%2C+Design+%26+Innovation;⚡+Let's+Create+Something+Amazing+Together!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=120&lines=🌌+Welcome+to+my+Digital+Universe+🌌;🌐+Web+Developer+from+Vietnam+🇻🇳;🎨+Crafting+Beautiful+Web+Experiences;💡+Frontend+%26+Backend+Specialist;⚡+Let's+Build+the+Web+Together!)](https://git.io/typing-svg)
 
 <br>
 
@@ -59,7 +59,7 @@
 
 <br>
 
-🔭 &nbsp;Currently building amazing **web & mobile applications**<br><br>
+🔭 &nbsp;Currently building amazing **web applications & digital experiences**<br><br>
 🌱 &nbsp;Learning **everything in tech** — never stop growing<br><br>
 👨‍💻 &nbsp;All of my projects are available on **GitHub**<br><br>
 🤝 &nbsp;Looking to collaborate on **innovative open source projects**<br><br>
@@ -79,7 +79,7 @@
 
 <br><br>
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" alt="Hacker GIF"/>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200" alt="Coding GIF"/>
 
 </td>
 </tr>
@@ -102,10 +102,12 @@
 ## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hellomynameee/hellomynameee/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hellomynameee/hellomynameee/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/hellomynameee/hellomynameee/output/github-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/hellomynameee/hellomynameee/blob/output/github-snake-dark.svg?raw=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/hellomynameee/hellomynameee/blob/output/github-snake.svg?raw=true" />
+  <img alt="github-snake" src="https://github.com/hellomynameee/hellomynameee/blob/output/github-snake-dark.svg?raw=true" width="100%" />
 </picture>
+
+<sub>⚠️ If the snake animation is not visible, please go to the GitHub repository's Actions tab → "Generate Snake Animation" → Run workflow</sub>
 
 </div>
 
@@ -124,6 +126,29 @@
 ## 🛠️ Ultra Tech Stack
 
 </div>
+
+<details open>
+<summary><h3>🌐 Web Development Specialties</h3></summary>
+<div align="center">
+<br>
+
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-06B6D4?style=for-the-badge&logo=css3&logoColor=white)
+![Progressive Web Apps](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-47A248?style=for-the-badge&logo=google&logoColor=white)
+![Web Performance](https://img.shields.io/badge/Web_Performance-FF6C37?style=for-the-badge&logo=lighthouse&logoColor=white)
+![Accessibility](https://img.shields.io/badge/Accessibility-0170FE?style=for-the-badge&logo=accessibility&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![SSR](https://img.shields.io/badge/SSR-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![SSG](https://img.shields.io/badge/SSG-663399?style=for-the-badge&logo=gatsby&logoColor=white)
+![Micro Frontends](https://img.shields.io/badge/Micro_Frontends-EC4899?style=for-the-badge&logo=webcomponentsdotorg&logoColor=white)
+![JAMstack](https://img.shields.io/badge/JAMstack-F0047F?style=for-the-badge&logo=jamstack&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
+![Headless CMS](https://img.shields.io/badge/Headless_CMS-8B5CF6?style=for-the-badge&logo=strapi&logoColor=white)
+
+</div>
+</details>
 
 <details open>
 <summary><h3>💻 Programming Languages (25+)</h3></summary>
@@ -219,24 +244,7 @@
 </div>
 </details>
 
-<details>
-<summary><h3>📱 Mobile Development (8+)</h3></summary>
-<div align="center">
-<br>
-
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
-![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
-![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)
-
-</div>
-</details>
-
-<details>
+<details open>
 <summary><h3>🗄️ Databases &amp; Storage (14+)</h3></summary>
 <div align="center">
 <br>
@@ -309,20 +317,6 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-
-</div>
-</details>
-
-<details>
-<summary><h3>🎮 Game Development (5+)</h3></summary>
-<div align="center">
-<br>
-
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
-![Pygame](https://img.shields.io/badge/Pygame-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Phaser](https://img.shields.io/badge/Phaser-8B0000?style=for-the-badge&logo=phaser&logoColor=white)
 
 </div>
 </details>
@@ -475,7 +469,7 @@
 
 ## 🎵 Now Playing
 
-<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200" alt="Music GIF"/>
+<img src="https://media.giphy.com/media/jJxaUysjzO9ri/giphy.gif" width="200" alt="Music GIF"/>
 
 <br>
 
@@ -609,12 +603,13 @@ If you like what I do, consider supporting me! ☕✨
 ## ⏱️ Weekly Coding Stats
 
 ```text
-JavaScript   ██████████████░░░░░░░░░░░   42.3 hrs  38.5%
-TypeScript   ████████░░░░░░░░░░░░░░░░░   25.1 hrs  22.8%
-Python       █████░░░░░░░░░░░░░░░░░░░░   15.4 hrs  14.0%
-CSS/SCSS     ████░░░░░░░░░░░░░░░░░░░░░   11.2 hrs  10.2%
-Go           ██░░░░░░░░░░░░░░░░░░░░░░░    7.8 hrs   7.1%
-Other        ██░░░░░░░░░░░░░░░░░░░░░░░    8.2 hrs   7.4%
+JavaScript   ██████████████░░░░░░░░░░░   42.3 hrs  35.2%
+TypeScript   ███████████░░░░░░░░░░░░░░   28.5 hrs  23.7%
+React/Vue    ██████░░░░░░░░░░░░░░░░░░░   16.2 hrs  13.5%
+CSS/SCSS     █████░░░░░░░░░░░░░░░░░░░░   12.8 hrs  10.7%
+Python       ████░░░░░░░░░░░░░░░░░░░░░   10.1 hrs   8.4%
+HTML         ███░░░░░░░░░░░░░░░░░░░░░░    6.5 hrs   5.4%
+Other        █░░░░░░░░░░░░░░░░░░░░░░░░    3.7 hrs   3.1%
 ```
 
 </div>
