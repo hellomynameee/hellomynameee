@@ -77,8 +77,7 @@
 
 <br>
 
-```javascript
-const hellomynameee = {
+<pre><code class="language-javascript">const hellomynameee = {
   name: "Nguyễn Thái Dương",
   role: "Web Developer",
   location: "Vietnam 🇻🇳",
@@ -88,8 +87,7 @@ const hellomynameee = {
                "Node.js", "Express"],
   currentFocus: "Building beautiful web experiences",
   funFact: "I drink coffee and ship features at 3AM ☕"
-};
-```
+};</code></pre>
 
 </td>
 </tr>
