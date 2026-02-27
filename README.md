@@ -12,7 +12,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=1" width="100%" />
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" height="4"/>
+
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!-- 3. ⌨️ MULTI-LINE TYPING ANIMATION -->
@@ -51,7 +51,7 @@
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
+## 💫 About Me
 
 <table>
 <tr>
@@ -75,11 +75,21 @@
 </td>
 <td width="45%" valign="top" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding GIF"/>
+<br>
 
-<br><br>
-
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200" alt="Coding GIF"/>
+```javascript
+const hellomynameee = {
+  name: "Nguyễn Thái Dương",
+  role: "Web Developer",
+  location: "Vietnam 🇻🇳",
+  languages: ["JavaScript", "TypeScript",
+              "Python", "PHP"],
+  frameworks: ["React", "Next.js", "Vue",
+               "Node.js", "Express"],
+  currentFocus: "Building beautiful web experiences",
+  funFact: "I drink coffee and ship features at 3AM ☕"
+};
+```
 
 </td>
 </tr>
@@ -102,12 +112,12 @@
 ## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/hellomynameee/hellomynameee/blob/output/github-snake-dark.svg?raw=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/hellomynameee/hellomynameee/blob/output/github-snake.svg?raw=true" />
-  <img alt="github-snake" src="https://github.com/hellomynameee/hellomynameee/blob/output/github-snake-dark.svg?raw=true" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hellomynameee/hellomynameee/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hellomynameee/hellomynameee/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/hellomynameee/hellomynameee/output/github-snake-dark.svg" width="100%" />
 </picture>
 
-<sub>⚠️ If the snake animation is not visible, please go to the GitHub repository's Actions tab → "Generate Snake Animation" → Run workflow</sub>
+<sub>🔄 Snake animation auto-generates every 6 hours via GitHub Actions</sub>
 
 </div>
 
@@ -469,11 +479,13 @@
 
 ## 🎵 Now Playing
 
-<img src="https://media.giphy.com/media/jJxaUysjzO9ri/giphy.gif" width="200" alt="Music GIF"/>
-
 <br>
 
 > 🎧 **Currently vibing to some lo-fi beats while coding...** 🎶
+> 
+> `♫ ░░░░░░░░░░░░░▓▓▓▓░░░░░░░░░░ ♫`
+
+<br>
 
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com)
 &nbsp;
@@ -513,9 +525,9 @@
 
 <div align="center">
 
-## 😂 Dev Meme
+## 😂 Dev Humor
 
-<img src="https://randommeme-five.vercel.app/" alt="Random Dev Meme" width="500" style="border-radius: 10px;"/>
+<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical&qColor=%238B5CF6&aColor=%23EC4899&bgColor=%230D1117&borderColor=%238B5CF6" alt="Dev Jokes" width="500"/>
 
 </div>
 
@@ -605,7 +617,7 @@ If you like what I do, consider supporting me! ☕✨
 ```text
 JavaScript   ██████████████░░░░░░░░░░░   42.3 hrs  35.2%
 TypeScript   ███████████░░░░░░░░░░░░░░   28.5 hrs  23.7%
-React/Vue    ██████░░░░░░░░░░░░░░░░░░░   16.2 hrs  13.5%
+React/Next   ██████░░░░░░░░░░░░░░░░░░░   16.2 hrs  13.5%
 CSS/SCSS     █████░░░░░░░░░░░░░░░░░░░░   12.8 hrs  10.7%
 Python       ████░░░░░░░░░░░░░░░░░░░░░   10.1 hrs   8.4%
 HTML         ███░░░░░░░░░░░░░░░░░░░░░░    6.5 hrs   5.4%
