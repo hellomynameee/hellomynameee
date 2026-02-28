@@ -7,10 +7,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,25:6366F1,50:EC4899,75:F43F5E,100:06B6D4&height=250&section=header&text=⚡%20NGUYỄN%20THÁI%20DƯƠNG%20⚡&fontSize=48&fontColor=FFFFFF&animation=twinkling&fontAlignY=28&desc=「%20Web%20Developer%20%20|%20%20Frontend%20%26%20Backend%20Specialist%20%20|%20%20UI%2FUX%20Enthusiast%20%20|%20%20Open%20Source%20Lover%20」&descAlignY=55&descSize=17&descColor=FFFFFF" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!-- 2. 🎬 ANIMATED INTRO BANNER -->
+<!-- 2. 🎬 ANIMATED SNAKE CONTRIBUTION GRID -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=1" width="100%" />
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 
 
@@ -65,7 +67,7 @@
 🤝 &nbsp;Looking to collaborate on **innovative open source projects**<br><br>
 💬 &nbsp;Ask me about **anything** — I'm always happy to help<br><br>
 📫 &nbsp;Reach me at: **hellomynameee@gmail.com**<br><br>
-⚡ &nbsp;Fun fact: **I mass coffee and shipping features at 3AM** ☕<br><br>
+⚡ &nbsp;**Coffee &amp; shipping features at 3AM** ☕<br><br>
 🎯 &nbsp;2026 Goals: **Contribute more to Open Source &amp; build cool products**<br><br>
 🌍 &nbsp;Based in **Vietnam** 🇻🇳<br><br>
 ❤️ &nbsp;I love turning **ideas into reality** through code
@@ -309,7 +311,24 @@
 </details>
 
 <details>
-<summary><h3>🤖 AI/ML &amp; Data Science (10+)</h3></summary>
+<summary><h3>📱 Mobile Development (8+)</h3></summary>
+<div align="center">
+<br>
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Kotlin Android](https://img.shields.io/badge/Kotlin_Android-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
+![PWA Mobile](https://img.shields.io/badge/PWA_Mobile-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
+
+</div>
+</details>
+
+<details>
+<summary><h3>🤖 AI/ML &amp; Data Science (12+)</h3></summary>
 <div align="center">
 <br>
 
@@ -325,6 +344,21 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+</div>
+</details>
+
+<details>
+<summary><h3>🎮 Game &amp; Creative (6+)</h3></summary>
+<div align="center">
+<br>
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
 </div>
 </details>
@@ -359,7 +393,7 @@
 </details>
 
 <details>
-<summary><h3>🔐 Security &amp; Testing (8+)</h3></summary>
+<summary><h3>🔐 Security &amp; Testing (10+)</h3></summary>
 <div align="center">
 <br>
 
@@ -372,6 +406,23 @@
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 ![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white)
+
+</div>
+</details>
+
+<details>
+<summary><h3>🧊 Web3 &amp; Blockchain (6+)</h3></summary>
+<div align="center">
+<br>
+
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
 
 </div>
 </details>
