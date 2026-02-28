@@ -7,10 +7,16 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,25:6366F1,50:EC4899,75:F43F5E,100:06B6D4&height=250&section=header&text=⚡%20NGUYỄN%20THÁI%20DƯƠNG%20⚡&fontSize=48&fontColor=FFFFFF&animation=twinkling&fontAlignY=28&desc=「%20Web%20Developer%20%20|%20%20Frontend%20%26%20Backend%20Specialist%20%20|%20%20UI%2FUX%20Enthusiast%20%20|%20%20Open%20Source%20Lover%20」&descAlignY=55&descSize=17&descColor=FFFFFF" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!-- 2. 🎬 ANIMATED SNAKE CONTRIBUTION GRID -->
+<!-- 2. 🐍 CONTRIBUTION SNAKE -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hellomynameee/hellomynameee/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hellomynameee/hellomynameee/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/hellomynameee/hellomynameee/output/github-snake-dark.svg" width="100%" />
+</picture>
+
+<sub>🔄 Snake animation auto-generates every 6 hours via GitHub Actions</sub>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -67,7 +73,7 @@
 🤝 &nbsp;Looking to collaborate on **innovative open source projects**<br><br>
 💬 &nbsp;Ask me about **anything** — I'm always happy to help<br><br>
 📫 &nbsp;Reach me at: **hellomynameee@gmail.com**<br><br>
-⚡ &nbsp;**Coffee &amp; shipping features at 3AM** ☕<br><br>
+⚡ &nbsp;Fun fact: **I drink coffee and ship features at 3AM** ☕<br><br>
 🎯 &nbsp;2026 Goals: **Contribute more to Open Source &amp; build cool products**<br><br>
 🌍 &nbsp;Based in **Vietnam** 🇻🇳<br><br>
 ❤️ &nbsp;I love turning **ideas into reality** through code
@@ -94,30 +100,6 @@
 </td>
 </tr>
 </table>
-
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- 7. 🐍 CONTRIBUTION SNAKE -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hellomynameee/hellomynameee/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hellomynameee/hellomynameee/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/hellomynameee/hellomynameee/output/github-snake-dark.svg" width="100%" />
-</picture>
-
-<sub>🔄 Snake animation auto-generates every 6 hours via GitHub Actions</sub>
 
 </div>
 
@@ -197,7 +179,7 @@
 </details>
 
 <details open>
-<summary><h3>🎨 Frontend &amp; UI (18+)</h3></summary>
+<summary><h3>🎨 Frontend &amp; UI (22+)</h3></summary>
 <div align="center">
 <br>
 
@@ -228,7 +210,7 @@
 </details>
 
 <details open>
-<summary><h3>⚙️ Backend &amp; APIs (15+)</h3></summary>
+<summary><h3>⚙️ Backend &amp; APIs (18+)</h3></summary>
 <div align="center">
 <br>
 
@@ -278,7 +260,7 @@
 </details>
 
 <details>
-<summary><h3>☁️ Cloud &amp; DevOps (20+)</h3></summary>
+<summary><h3>☁️ Cloud &amp; DevOps (24+)</h3></summary>
 <div align="center">
 <br>
 
@@ -318,11 +300,11 @@
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Kotlin Android](https://img.shields.io/badge/Kotlin_Android-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
 ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
-![PWA Mobile](https://img.shields.io/badge/PWA_Mobile-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 </div>
 </details>
@@ -364,7 +346,7 @@
 </details>
 
 <details>
-<summary><h3>🔧 Developer Tools (15+)</h3></summary>
+<summary><h3>🔧 Developer Tools (20+)</h3></summary>
 <div align="center">
 <br>
 
@@ -393,7 +375,7 @@
 </details>
 
 <details>
-<summary><h3>🔐 Security &amp; Testing (10+)</h3></summary>
+<summary><h3>🔐 Security &amp; Testing (9+)</h3></summary>
 <div align="center">
 <br>
 
@@ -413,14 +395,14 @@
 </details>
 
 <details>
-<summary><h3>🧊 Web3 &amp; Blockchain (6+)</h3></summary>
+<summary><h3>🌐 Web3 &amp; Blockchain (6+)</h3></summary>
 <div align="center">
 <br>
 
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
-![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white)
+![Metamask](https://img.shields.io/badge/Metamask-E2761B?style=for-the-badge&logo=metamask&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
 ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
 
